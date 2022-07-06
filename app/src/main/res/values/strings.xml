@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Library registation</string>
+    <string-array name="school_list">
+        <item>Choose School</item>
+        <item>DR:Ali Mohamed Shein S.School</item>
+        <item>Lumumba S.School</item>
+        <item>M ladu S.School</item>
+        <item>k chekundu S.School</item>
+        <item>Hamamni S.School</item>
+    </string-array>
+
+    <string-array name="education_level">
+        <item>Choose Education Level</item>
+        <item>Primary School</item>
+        <item>O level</item>
+        <item>A level</item>
+        <item>Collage</item>
+        <item>University</item>
+    </string-array>
+</resources>
